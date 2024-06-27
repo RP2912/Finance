@@ -1,8 +1,3 @@
-# Finance
-
-Sure! Here is a description for your GitHub repository about the fraud detection project:
-
----
 
 ## Credit Card Fraud Detection
 
